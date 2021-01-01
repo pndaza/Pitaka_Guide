@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mm.pndaza.piktaguide.uiactivity.MainActivity">
+    <item
+        android:id="@+id/menu_about"
+        android:title="about"
+        android:icon="@drawable/about"
+        app:showAsAction="always">
+
+    </item>
+</menu>
